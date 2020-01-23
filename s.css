@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body {
+  background-color: #26262B;
+}
+#nav,#header,table{
+  color: #fff;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  text-align: center;
+  align-content: center;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+#content,#footer{
+  color: #fff;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  text-align: left;
+  align-content: left;
+}
